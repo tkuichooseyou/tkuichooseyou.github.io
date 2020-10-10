@@ -4,3 +4,9 @@
 
 layout: home
 ---
+
+
+<div class="social-links">
+  {%- include social.html -%}
+</div>
+
