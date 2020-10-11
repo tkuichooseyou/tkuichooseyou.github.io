@@ -168,6 +168,8 @@ span.spacer:last-child {
 
 #social {
   display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 
   .svg-wrapper {
     margin-top: 0px;
