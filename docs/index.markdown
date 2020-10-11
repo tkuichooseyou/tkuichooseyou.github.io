@@ -6,7 +6,16 @@ layout: home
 ---
 
 
-<div class="social-links">
+<div class="vcenter fill-height">
+  <span class="spacer"></span>
+  <div><h1>Teddy Ku</h1></div>
+  <div><h3>Software Engineer</h3></div>
+  <div><h3> </h3></div>
+
+  <div class="social-links">
   {%- include social.html -%}
+  </div>
+
+  <span class="spacer"></span>
 </div>
 
