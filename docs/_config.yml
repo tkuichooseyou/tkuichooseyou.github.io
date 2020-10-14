@@ -25,6 +25,7 @@ url: "http://teddyku.com" # the base hostname & protocol for your site, e.g. htt
 twitter_username: tkuichooseyou
 github_username: tkuichooseyou
 linkedin_username: teddyku
+google_analytics: UA-77529570-1
 
 # Build settings
 theme: minima
